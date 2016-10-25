@@ -24,8 +24,8 @@ public class Run2
 		
 		try
 		(
-			BufferedReader inputStream = new BufferedReader(new FileReader("C:\\Users\\Haluk\\Desktop\\RDC_ogrenciler.txt"));
-			BufferedWriter outputStream = new BufferedWriter(new FileWriter("C:\\Users\\Haluk\\Desktop\\RDC_ogrencilerAd.txt"));
+			BufferedReader inputStream = new BufferedReader(new FileReader("C:\\Users\\Alper\\Desktop\\RDC_ogrenciler.txt"));
+			BufferedWriter outputStream = new BufferedWriter(new FileWriter("C:\\Users\\Alper\\Desktop\\RDC_ogrencilerAd.txt"));
 		)
 		{
 			
